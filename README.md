@@ -1,4 +1,2 @@
-Blofeld Midi Controller iOS App
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Feel free to open issues.
+Feel free to open issues:<br/>
+https://github.com/noreasonprojects/BlofeldMidiController/issues
