@@ -1,6 +1,5 @@
 <p>
-Feel free to open issues:<br/>
-https://github.com/noreasonprojects/BlofeldMidiController/issues
+If you found a bug, feel free to <a href="https://github.com/noreasonprojects/BlofeldMidiController/issues">open issues</a>
 </p>
 
 <h2>Terms of use</h2>
