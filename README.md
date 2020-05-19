@@ -1,6 +1,23 @@
+<h2>Bugs</h2>
 <p>
 If you found a bug, feel free to <a href="https://github.com/noreasonprojects/BlofeldMidiController/issues">open issues</a>
 </p>
+
+<h2>Known Issues</h2>
+<ul>
+	<li>I'm a bad graphic designer.</li>
+	<li>Changing sound from the blofeld too quickly will lost program changed message information.</li>
+	<li>Depends on parameter, display value may be not so accurate.</li>
+</ul>
+
+<h2>In the neXt future</h2>
+<ul>
+	<li>app editor must reflect changes made on blofeld device in real time.</li>
+    <li>missing blofeld section: effect, arp...</li>
+    <li>change patch from the editor.</li>
+    <li>add an X / Y matrix section.</li>
+    <li>handle blofeld multi mode.</li>
+</ul>
 
 <h2>Terms of use</h2>
 <p>
