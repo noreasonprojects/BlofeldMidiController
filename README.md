@@ -19,6 +19,7 @@ If you found a bug, feel free to <a href="https://github.com/noreasonprojects/Bl
     <li>handle blofeld multi mode.</li>
 </ul>
 
+<a name="termsOfUse"></a>
 <h2>Terms of use</h2>
 <p>
 By using any part of Bolfeld Midi Controller iOS App you agree to our terms and conditions of use of this website. If you do not agree, please do not use this app.<p/>
