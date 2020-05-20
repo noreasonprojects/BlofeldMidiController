@@ -33,7 +33,7 @@ We only uses access log files to analyze crashes.<br/><br/>
 As a rule, we do not collect personal informations so we do not share them.<br/><br/>
 <b>4. Updating our privacy policy</b><br/>
 A link to this policy is available in the iOS app, feel free to come regularly.<br/><br/>
-<b>5. Notice of updatei</b><br/>
-This privacy policy was updated on May 19, 2020.
+<b>5. Notice of update</b><br/>
+This privacy policy was updated on May 19, 2020.<br/><br/>
 <b>6. Contact</b><br/>
 Any kind of questions: <a href="mailto:noreasonprojects@gmail.com">noreasonprojects@gmail.com</a><br/><br/>
